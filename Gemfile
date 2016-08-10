@@ -24,7 +24,8 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
-gem 'devise', '~> 4.2'	
+gem 'devise', '~> 4.2'
+gem 'acts_as_votable', '~> 0.10.0'	
 gem 'paperclip', '~> 5.0'
 
 # Use ActiveModel has_secure_password
